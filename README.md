@@ -42,7 +42,7 @@ Speak into your microphone or upload an audio file — Voxify turns your voice i
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/voxify.git
+git clone https://github.com/Bismaya-Guruprasad-Panda-8741/VoxiFy-Voice-to-Text-Converter
 cd voxify
 ```
 
